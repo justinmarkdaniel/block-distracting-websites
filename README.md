@@ -42,3 +42,4 @@ When you visit a blocked site, you'll see a motivational quote instead.
 ## License
 
 See [LICENSE](LICENSE) for details. Personal use only.
+
