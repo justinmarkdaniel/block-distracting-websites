@@ -1,4 +1,4 @@
-# Focus Flow
+# Block Distracting Websites
 
 A minimalist Chrome extension that blocks distracting websites and replaces them with motivational quotes.
 

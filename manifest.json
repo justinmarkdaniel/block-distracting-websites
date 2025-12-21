@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Focus Flow",
+  "name": "Block Distracting Websites",
   "version": "1.0.0",
   "description": "Block distracting websites and stay inspired with motivational quotes",
   "permissions": [
